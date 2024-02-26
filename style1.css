@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+body{
+    background: url(https://i.pinimg.com/originals/2f/83/25/2f8325140e3fdbd21aa588c566bd0b4d.jpg);
+    margin: center;
+    height: auto;
+    padding: 15%;
+}
+h2{
+    padding: auto;
+    margin: auto;
+
+}
+ .kass{
+    margin: auto;
+    width: 2vh;
+    height: 2vh;
+    padding: auto;  
+    
+ }
+ 
